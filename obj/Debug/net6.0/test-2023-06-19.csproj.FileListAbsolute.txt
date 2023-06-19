@@ -1,0 +1,15 @@
+C:\Users\Nick\GB Dev Test\test-2023-06-19\bin\Debug\net6.0\test-2023-06-19.exe
+C:\Users\Nick\GB Dev Test\test-2023-06-19\bin\Debug\net6.0\test-2023-06-19.deps.json
+C:\Users\Nick\GB Dev Test\test-2023-06-19\bin\Debug\net6.0\test-2023-06-19.runtimeconfig.json
+C:\Users\Nick\GB Dev Test\test-2023-06-19\bin\Debug\net6.0\test-2023-06-19.dll
+C:\Users\Nick\GB Dev Test\test-2023-06-19\bin\Debug\net6.0\test-2023-06-19.pdb
+C:\Users\Nick\GB Dev Test\test-2023-06-19\obj\Debug\net6.0\test-2023-06-19.csproj.AssemblyReference.cache
+C:\Users\Nick\GB Dev Test\test-2023-06-19\obj\Debug\net6.0\test-2023-06-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\GB Dev Test\test-2023-06-19\obj\Debug\net6.0\test-2023-06-19.AssemblyInfoInputs.cache
+C:\Users\Nick\GB Dev Test\test-2023-06-19\obj\Debug\net6.0\test-2023-06-19.AssemblyInfo.cs
+C:\Users\Nick\GB Dev Test\test-2023-06-19\obj\Debug\net6.0\test-2023-06-19.csproj.CoreCompileInputs.cache
+C:\Users\Nick\GB Dev Test\test-2023-06-19\obj\Debug\net6.0\test-2023-06-19.dll
+C:\Users\Nick\GB Dev Test\test-2023-06-19\obj\Debug\net6.0\refint\test-2023-06-19.dll
+C:\Users\Nick\GB Dev Test\test-2023-06-19\obj\Debug\net6.0\test-2023-06-19.pdb
+C:\Users\Nick\GB Dev Test\test-2023-06-19\obj\Debug\net6.0\test-2023-06-19.genruntimeconfig.cache
+C:\Users\Nick\GB Dev Test\test-2023-06-19\obj\Debug\net6.0\ref\test-2023-06-19.dll
