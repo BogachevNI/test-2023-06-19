@@ -48,9 +48,14 @@ void printArray(string[] array)
 }
 
 Console.Write("Введите размерность массива: ");
-int size = Convert.ToInt32(Console.ReadLine());
-string[] myArray = createArrayManually(size);
-printArray(myArray);
-int filter = CountLength(myArray);
-string[] myFilterArray = createFilterArray(myArray, filter);
-printArray(myFilterArray);
+int size = Convert.ToInt32(Console.ReadLine()); // этап 1
+
+string[] myArray = createArrayManually(size); // этап 2
+
+printArray(myArray); // этап 3
+
+int filter = CountLength(myArray); // этап 4
+
+string[] myFilterArray = createFilterArray(myArray, filter); // этап 5
+
+printArray(myFilterArray); // этап 6
