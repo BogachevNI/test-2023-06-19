@@ -25,7 +25,16 @@ int CountLength(string[] array)
 string[] createFilterArray(string[] array, int elementLength3)
 {
     string[] newArray = new string[elementLength3];
-    
+    int j = 0;
+
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 3) 
+        {
+            newArray[j] = array[i];
+            j++;
+        }
+    }
     return newArray;
 }
 
